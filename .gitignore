@@ -1,0 +1,19 @@
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+#########################
+# UNREAL Generated Files
+#########################
+Content/StarterContent/
+Build/
+Binaries/
+Intermediate/
+Saved/
+
+########################
+# VS Gemerated Files
+########################
+*.db
